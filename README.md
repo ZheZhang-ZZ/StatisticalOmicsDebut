@@ -5,8 +5,10 @@
 ### 生物信息
 
 + 鲁志老师课题组资料：https://book.ncrnalab.org/teaching
-+ 基因组学资料：https://indexofire.github.io/pathongs/book/main/
++ 杭州市疾控中心基因组学资料：https://indexofire.github.io/pathongs/book/main/
 + 中科院基因组所基因组学课程：https://www.bilibili.com/video/BV1KE421g7kT/?spm_id_from=333.337.search-card.all.click&vd_source=e66eaab8ff8459d0dd55075a48dff9d6
++ 密西根大学周翔老师课题组学生博客：https://lulushang.org/blog/archive/
++ 人类GWAS教程：https://cloufield.github.io/GWASTutorial/
 
 ### 编程
 
@@ -18,20 +20,14 @@
 
 + 线性代数: https://www.bilibili.com/video/BV1ix411f7Yp/?spm_id_from=333.1387.favlist.content.click&vd_source=e66eaab8ff8459d0dd55075a48dff9d6
 + 机器学习的数学基础：https://www.bilibili.com/video/BV1Ezz9YWEwU/?spm_id_from=333.1387.favlist.content.click&vd_source=e66eaab8ff8459d0dd55075a48dff9d6
-+ 遗传学中的概率论与数理统计：
++ 遗传学中的概率论与数理统计：https://github.com/ZheZhang-ZZ/StatisticalOmicsDebut/blob/main/Books/Probability%20and%20Statistics%20for%20genetics.pdf
++ 贝叶斯统计学：
 
 ### 统计遗传
 
-+ 数量遗传学
-
-+ 应用统计遗传与R
-
-+ 育种值估计的线性模型
-
-+ 统计基因组学
-
-+ 徐士忠老师统计遗传学讲义
-
-+ Ben Hayes基因组选择讲义
-
-  
++ 数量遗传学：https://github.com/ZheZhang-ZZ/StatisticalOmicsDebut/blob/main/Books/Introduction%20to%20Quantitative%20Genetics.pdf
++ 应用统计遗传与R：https://github.com/ZheZhang-ZZ/StatisticalOmicsDebut/blob/main/Books/Applied%20Statistical%20Genetics%20with%20R.pdf
++ 育种值估计的线性模型：https://github.com/ZheZhang-ZZ/StatisticalOmicsDebut/blob/main/Books/Linear%20models%20for%20the%20prediction%20of%20animal%20breeding%20values.pdf
++ 统计基因组学：https://github.com/ZheZhang-ZZ/StatisticalOmicsDebut/blob/main/Books/statistical%20genomics.pdf
++ 徐士忠老师统计遗传学讲义：https://github.com/ZheZhang-ZZ/StatisticalOmicsDebut/tree/main/Books/XuLecture
++ Ben Hayes基因组选择讲义：https://github.com/ZheZhang-ZZ/StatisticalOmicsDebut/tree/main/Books/BenHayesLecture
