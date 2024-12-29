@@ -21,7 +21,7 @@
 + 线性代数: https://www.bilibili.com/video/BV1ix411f7Yp/?spm_id_from=333.1387.favlist.content.click&vd_source=e66eaab8ff8459d0dd55075a48dff9d6
 + 机器学习的数学基础：https://www.bilibili.com/video/BV1Ezz9YWEwU/?spm_id_from=333.1387.favlist.content.click&vd_source=e66eaab8ff8459d0dd55075a48dff9d6
 + 遗传学中的概率论与数理统计：https://github.com/ZheZhang-ZZ/StatisticalOmicsDebut/blob/main/Books/Probability%20and%20Statistics%20for%20genetics.pdf
-+ 贝叶斯统计学：
++ 贝叶斯统计学：https://github.com/ZheZhang-ZZ/StatisticalOmicsDebut/blob/main/Books/03Doing%20bayesian%20data%20analysis%20using%20R%20JAGS%20STAN.pdf
 
 ### 统计遗传
 
